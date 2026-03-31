@@ -1,7 +1,7 @@
 # inet4031_lab9_crudecrud
 Updated Crude CRUD made by Stardust Crusaders scrum team for UMN INET 4031 lab 9
 
-# INET 4031 Lab 9 – Infrastructure and Deployment  
+# INET 4031 Lab 9 – Updated Crude  
 
 ## Program Description  
 This lab focuses on setting up a complete virtualized infrastructure and deploying a web-based application in a controlled environment. The objective is to simulate a real-world IT workflow where systems are configured, connected, and tested before being used in production.
